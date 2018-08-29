@@ -1,5 +1,4 @@
 # β Frugal coloring
-## Algorithm
 The algorithm implemented here is a randomized algorithm to radomly color all the vertices of the graph and then check for type1 and type2 errors.
 ##### Type 1 error occurs when two adjecent vertices are assigned the same color.
 ##### Type 2 error occurs when more than β neighbors of a vertex are assigned the same color.
